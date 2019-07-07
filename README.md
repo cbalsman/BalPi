@@ -1,2 +1,2 @@
 # BalPi
-This is my test files for the CrowPi
+This is where I am storing files to be transfered to the CrowPi
